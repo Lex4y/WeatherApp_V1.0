@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyWeatherApp</string>
+    <string name="hint">Введите город (Например:Moscow)</string>
+    <string name="temperature">Температура:</string>
+    <string name="humid">Влажность:</string>
+    <string name="windspeed">Скорость ветра:</string>
+    <string name="no_city_input">Введите название города на английском</string>
+    <string name="no_data">Эта функция будет доступна позже</string>
+</resources>
